@@ -11,8 +11,5 @@ export default new Router({
       name: 'Home',
       component: Home
     }
-  ],
-  mode: 'history',
-  linkActiveClass: 'active-page',
-  linkExactActiveClass: 'current-page'
+  ]
 })
